@@ -2,7 +2,8 @@
 
 ## Español
 
-En Node.js Madrid estamos buscando activamente charlas de iniciación a Node.js,
+En [Node.js Madrid](http://www.meetup.com/Node-js-Madrid/)
+estamos buscando activamente charlas de iniciación a Node.js,
 de una media hora de duración.
 Sin importar sexo, edad, origen o condición.
 ¡Anímate *ahora*!
@@ -18,7 +19,8 @@ Te avisaremos ya en firme con varias semanas de antelación.
 
 ## English
 
-At Node.js Madrid we are actively seeking introductory talks to Node.js,
+At [Node.js Madrid](http://www.meetup.com/Node-js-Madrid/)
+we are actively seeking introductory talks to Node.js,
 about half an hour long.
 No matter gender, age, origin or condition.
 Send yours *now*!
