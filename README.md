@@ -41,11 +41,6 @@ Oh and by the way, we are always looking for advanced talks ;)
 
 ## Próximas Charlas Previstas:
 
-### Enero 2015
-
-Introductoria: [Intro a Meteor](https://github.com/NodeJsMadrid/talks/issues/4).
-Avanzada: [NodeOS](https://github.com/NodeJsMadrid/talks/issues/1).
-
 ### Febrero 2015
 
 Introductoria: [SPA con NodeJS](https://github.com/NodeJsMadrid/talks/issues/5).
@@ -55,4 +50,16 @@ Avanzada: Recolector de basura (enviada al último CfP).
 
 Introductoria: pendiente.
 Avanzada: [Not MEAN ORMs](https://github.com/NodeJsMadrid/talks/issues/6).
+
+### Abril 2015
+
+Introductoria: pendiente.
+Avanzada: [Fork node.js, let's io.js](https://github.com/NodeJsMadrid/talks/issues/7).
+
+## Charlas Anteriores:
+
+### Enero 2015
+
+Introductoria: [Intro a Meteor](https://github.com/NodeJsMadrid/talks/issues/4).
+Avanzada: [NodeOS](https://github.com/NodeJsMadrid/talks/issues/1).
 
