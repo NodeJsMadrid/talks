@@ -44,12 +44,12 @@ Oh and by the way, we are always looking for advanced talks ;)
 ### Febrero 2015
 
 Introductoria: [SPA con NodeJS](https://github.com/NodeJsMadrid/talks/issues/5).
-Avanzada: Recolector de basura (enviada al último CfP).
+Avanzada: [Not MEAN ORMs](https://github.com/NodeJsMadrid/talks/issues/6).
 
 ### Marzo 2015
 
 Introductoria: pendiente.
-Avanzada: [Not MEAN ORMs](https://github.com/NodeJsMadrid/talks/issues/6).
+Avanzada: Recolección de eventos (pendiente del anterior CfP).
 
 ### Abril 2015
 
