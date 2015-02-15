@@ -48,16 +48,19 @@ según disponibilidad de los ponentes y espacios.
 ### Febrero 2015
 
 Introductoria: [Not MEAN ORMs](https://github.com/NodeJsMadrid/talks/issues/6).
+
 Avanzada: [Fork node.js, let's io.js](https://github.com/NodeJsMadrid/talks/issues/7).
 
 ### Marzo 2015
 
 Introductoria: [SPA con NodeJS](https://github.com/NodeJsMadrid/talks/issues/5).
+
 Avanzada: Recolección de eventos (pendiente del anterior CfP).
 
 ### Abril 2015
 
 Introductoria: pendiente.
+
 Avanzada: pendiente.
 
 ## Charlas Anteriores:
@@ -65,5 +68,6 @@ Avanzada: pendiente.
 ### Enero 2015
 
 Introductoria: [Intro a Meteor](https://github.com/NodeJsMadrid/talks/issues/4).
+
 Avanzada: [NodeOS](https://github.com/NodeJsMadrid/talks/issues/1).
 
