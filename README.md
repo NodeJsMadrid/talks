@@ -39,7 +39,11 @@ We will then notify you with a final date, several weeks in advance.
 
 Oh and by the way, we are always looking for advanced talks ;)
 
-## Próximas Charlas Previstas:
+## Próximas Charlas Previstas
+
+La fecha y organización de las charlas puede cambiar sin previo aviso,
+según disponibilidad de los ponentes y espacios.
+
 
 ### Febrero 2015
 
