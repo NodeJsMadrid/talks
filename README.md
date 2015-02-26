@@ -45,12 +45,6 @@ La fecha y organización de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y espacios.
 
 
-### Febrero 2015
-
-Introductoria: [Not MEAN ORMs](https://github.com/NodeJsMadrid/talks/issues/6).
-
-Avanzada: [Fork node.js, let's io.js](https://github.com/NodeJsMadrid/talks/issues/7).
-
 ### Marzo 2015
 
 Introductoria: [SPA con NodeJS](https://github.com/NodeJsMadrid/talks/issues/5).
@@ -70,4 +64,10 @@ Avanzada: pendiente.
 Introductoria: [Intro a Meteor](https://github.com/NodeJsMadrid/talks/issues/4).
 
 Avanzada: [NodeOS](https://github.com/NodeJsMadrid/talks/issues/1).
+
+### Febrero 2015
+
+Introductoria: [Not MEAN ORMs](https://github.com/NodeJsMadrid/talks/issues/6).
+
+Avanzada: [Fork node.js, let's io.js](https://github.com/NodeJsMadrid/talks/issues/7).
 
