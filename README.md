@@ -59,7 +59,7 @@ Avanzada: Recolección de eventos (pendiente del anterior CfP).
 
 ### Abril 2015
 
-Introductoria: pendiente.
+Introductoria: [NodeJS para construir T-cracia](https://github.com/NodeJsMadrid/talks/issues/9).
 
 Avanzada: pendiente.
 
