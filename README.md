@@ -8,7 +8,8 @@ de una media hora de duración.
 Sin importar sexo, edad, origen o condición.
 ¡Anímate *ahora*!
 
-Envía un _issue_ para proponer una charla. Por favor, incluye:
+Envía un [_issue_](https://github.com/NodeJsMadrid/talks/issues/new)
+para proponer una charla. Por favor, incluye:
 
 * Título de la charla.
 * Descripción: unas cuantas frases sobre lo que quieres hablar.
