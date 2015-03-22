@@ -47,13 +47,13 @@ según disponibilidad de los ponentes y espacios.
 
 ### Marzo 2015
 
-Introductoria: [SPA con NodeJS](https://github.com/NodeJsMadrid/talks/issues/5).
+Introductoria: [NodeJS para construir T-cracia](https://github.com/NodeJsMadrid/talks/issues/9).
 
 Avanzada: Recolección de eventos (pendiente del anterior CfP).
 
 ### Abril 2015
 
-Introductoria: [NodeJS para construir T-cracia](https://github.com/NodeJsMadrid/talks/issues/9).
+Introductoria: [SPA con NodeJS](https://github.com/NodeJsMadrid/talks/issues/5).
 
 Avanzada: pendiente.
 
