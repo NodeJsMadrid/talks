@@ -46,12 +46,6 @@ La fecha y organización de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y espacios.
 
 
-### Marzo 2015
-
-Introductoria: [NodeJS para construir T-cracia](https://github.com/NodeJsMadrid/talks/issues/9).
-
-Avanzada: Recolección de eventos (pendiente del anterior CfP).
-
 ### Abril 2015
 
 Introductoria: [SPA con NodeJS](https://github.com/NodeJsMadrid/talks/issues/5).
@@ -72,3 +66,8 @@ Introductoria: [Not MEAN ORMs](https://github.com/NodeJsMadrid/talks/issues/6).
 
 Avanzada: [Fork node.js, let's io.js](https://github.com/NodeJsMadrid/talks/issues/7).
 
+### Marzo 2015
+
+Introductoria: [NodeJS para construir T-cracia](https://github.com/NodeJsMadrid/talks/issues/9).
+
+Avanzada: Recolección de eventos (pendiente del anterior CfP).
