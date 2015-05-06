@@ -45,12 +45,9 @@ Oh and by the way, we are always looking for advanced talks ;)
 La fecha y organización de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y espacios.
 
+### Mayo 2015
 
-### Abril 2015
-
-Introductoria: [SPA con NodeJS](https://github.com/NodeJsMadrid/talks/issues/5).
-
-Avanzada: pendiente.
+[NodeSchool International Day](http://www.meetup.com/Node-js-Madrid/events/222023643/).
 
 ## Charlas Anteriores:
 
@@ -71,3 +68,7 @@ Avanzada: [Fork node.js, let's io.js](https://github.com/NodeJsMadrid/talks/issu
 Introductoria: [NodeJS para construir T-cracia](https://github.com/NodeJsMadrid/talks/issues/9).
 
 Avanzada: Recolección de eventos (pendiente del anterior CfP).
+
+### Abril 2015
+
+Cancelada.
