@@ -45,23 +45,21 @@ Oh and by the way, we are always looking for advanced talks ;)
 La fecha y organización de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y espacios.
 
+### Junio 2015
+
+Introductoria: [Socialmente conectado. Cómo autenticarte con passport en nodejs](https://github.com/NodeJsMadrid/talks/issues/10).
+
+Avanzada: [Desarrollo Web en Node.js con Pillars.js](https://github.com/NodeJsMadrid/talks/issues/8).
+
+## Charlas Anteriores:
+
 ### Mayo 2015
 
 [NodeSchool International Day](http://www.meetup.com/Node-js-Madrid/events/222023643/).
 
-## Charlas Anteriores:
+### Abril 2015
 
-### Enero 2015
-
-Introductoria: [Intro a Meteor](https://github.com/NodeJsMadrid/talks/issues/4).
-
-Avanzada: [NodeOS](https://github.com/NodeJsMadrid/talks/issues/1).
-
-### Febrero 2015
-
-Introductoria: [Not MEAN ORMs](https://github.com/NodeJsMadrid/talks/issues/6).
-
-Avanzada: [Fork node.js, let's io.js](https://github.com/NodeJsMadrid/talks/issues/7).
+Cancelada.
 
 ### Marzo 2015
 
@@ -69,6 +67,14 @@ Introductoria: [NodeJS para construir T-cracia](https://github.com/NodeJsMadrid/
 
 Avanzada: Recolección de eventos (pendiente del anterior CfP).
 
-### Abril 2015
+### Febrero 2015
 
-Cancelada.
+Introductoria: [Not MEAN ORMs](https://github.com/NodeJsMadrid/talks/issues/6).
+
+Avanzada: [Fork node.js, let's io.js](https://github.com/NodeJsMadrid/talks/issues/7).
+
+### Enero 2015
+
+Introductoria: [Intro a Meteor](https://github.com/NodeJsMadrid/talks/issues/4).
+
+Avanzada: [NodeOS](https://github.com/NodeJsMadrid/talks/issues/1).
