@@ -45,13 +45,19 @@ Oh and by the way, we are always looking for advanced talks ;)
 La fecha y organización de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y espacios.
 
+### Septiembre 2015
+
+Introductoria: [Charla sobre Medbravo](https://github.com/NodeJsMadrid/talks/issues/11).
+
+Avanzada: [Serve-me](https://github.com/NodeJsMadrid/talks/issues/12).
+
+## Charlas Anteriores:
+
 ### Junio 2015
 
 Introductoria: [Socialmente conectado. Cómo autenticarte con passport en nodejs](https://github.com/NodeJsMadrid/talks/issues/10).
 
 Avanzada: [Desarrollo Web en Node.js con Pillars.js](https://github.com/NodeJsMadrid/talks/issues/8).
-
-## Charlas Anteriores:
 
 ### Mayo 2015
 
