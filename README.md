@@ -40,6 +40,21 @@ We will then notify you with a final date, several weeks in advance.
 
 Oh and by the way, we are always looking for advanced talks ;)
 
+## Código de conducta
+
+Para asegurarnos que seamos todos tan majos con los demás como hasta ahora,
+hemos elaborado este [código de conducta](codigo-conducta.md) donde viene por escrito.
+Es nuestro compromiso con un ambiente libre de malos rollos.
+
+## Code of Conduct
+
+To ensure that we are all as nice to each other as we have been so far,
+we have adopted this [code of conduct](codigo-conducta.md), right now in Spanish only,
+but you can read our [inspiring](http://www.meetup.com/pdxpython/pages/Code_of_Conduct/)
+[policies](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+In a nutshell: don't be a jerk to others.
+Contact [Alex Fernández](mailto:alexfernandeznpm@gmail.com) if you have any doubts.
+
 ## Próximas Charlas Previstas
 
 La fecha y organización de las charlas puede cambiar sin previo aviso,
