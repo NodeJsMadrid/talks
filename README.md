@@ -60,11 +60,27 @@ Contact [Alex Fernández](mailto:alexfernandeznpm@gmail.com) if you have any dou
 La fecha y organización de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y espacios.
 
-### Septiembre 2015
+### Pendiente
 
 Introductoria: [Charla sobre Medbravo](https://github.com/NodeJsMadrid/talks/issues/11).
 
 Avanzada: [Serve-me](https://github.com/NodeJsMadrid/talks/issues/12).
+
+### Marzo 2015
+
+[Carving Up Legacy with Microservices](http://www.meetup.com/es-ES/Node-js-Madrid/events/227675594/)
+
+### Enero 2015
+
+[Java vs Node.js: el encuentro](http://www.meetup.com/es-ES/Node-js-Madrid/events/226495441/).
+
+### Noviembre 2015
+
+[El caso de éxito Masterchef](http://www.meetup.com/es-ES/Node-js-Madrid/events/226429686/).
+
+### Octubre 2015
+
+[Mesa Redonda: Rendimiento en EcmaScript 6](http://www.meetup.com/es-ES/Node-js-Madrid/events/225379927/).
 
 ## Charlas Anteriores:
 
