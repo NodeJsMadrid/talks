@@ -60,7 +60,7 @@ Contact [Alex Fernández](mailto:alexfernandeznpm@gmail.com) if you have any dou
 La fecha y organización de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y espacios.
 
-### Marzo 2015
+### Mayo 2015
 
 * Introductoria: [FullStack DevOps](https://github.com/NodeJsMadrid/talks/issues/17)
 * Avanzada: [Envoltorio de herramientas nodejs para integración continua, testing y más... con piscosour](https://github.com/NodeJsMadrid/talks/issues/16)
