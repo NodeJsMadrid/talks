@@ -60,11 +60,13 @@ Contact [Alex Fernández](mailto:alexfernandeznpm@gmail.com) if you have any dou
 La fecha y organización de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y espacios.
 
-### Pendiente
+### Marzo 2015
 
-Introductoria: [Charla sobre Medbravo](https://github.com/NodeJsMadrid/talks/issues/11).
+* Introductoria: [FullStack DevOps](https://github.com/NodeJsMadrid/talks/issues/17)
+* Avanzada: [Envoltorio de herramientas nodejs para integración continua, testing y más... con piscosour](https://github.com/NodeJsMadrid/talks/issues/16)
+* [Meetup](http://www.meetup.com/es-ES/Node-js-Madrid/events/231216390/).
 
-Avanzada: [Serve-me](https://github.com/NodeJsMadrid/talks/issues/12).
+## Charlas Anteriores:
 
 ### Marzo 2015
 
@@ -81,8 +83,6 @@ Avanzada: [Serve-me](https://github.com/NodeJsMadrid/talks/issues/12).
 ### Octubre 2015
 
 [Mesa Redonda: Rendimiento en EcmaScript 6](http://www.meetup.com/es-ES/Node-js-Madrid/events/225379927/).
-
-## Charlas Anteriores:
 
 ### Junio 2015
 
