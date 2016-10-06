@@ -60,19 +60,32 @@ Contact [Alex Fernández](mailto:alexfernandeznpm@gmail.com) if you have any dou
 La fecha y organización de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y espacios.
 
-### Mayo 2015
+### Octubre 2016
+
+[Microservicios: ¿algo nuevo o lo mismo con otro nombre?](https://github.com/NodeJsMadrid/talks/issues/19).
+
+## Charlas Anteriores:
+
+### Septiembre 2016
+
+[Node JS & second screen](https://github.com/NodeJsMadrid/talks/issues/14).
+
+### Junio 2016
+
+* Introductoria: [Datos geolocalizados](https://github.com/NodeJsMadrid/talks/issues/15).
+* Avanzada: [Node.js EE](https://github.com/NodeJsMadrid/talks/issues/18).
+
+### Mayo 2016
 
 * Introductoria: [FullStack DevOps](https://github.com/NodeJsMadrid/talks/issues/17)
 * Avanzada: [Envoltorio de herramientas nodejs para integración continua, testing y más... con piscosour](https://github.com/NodeJsMadrid/talks/issues/16)
 * [Meetup](http://www.meetup.com/es-ES/Node-js-Madrid/events/231216390/).
 
-## Charlas Anteriores:
-
-### Marzo 2015
+### Marzo 2016
 
 [Carving Up Legacy with Microservices](http://www.meetup.com/es-ES/Node-js-Madrid/events/227675594/)
 
-### Enero 2015
+### Enero 2016
 
 [Java vs Node.js: el encuentro](http://www.meetup.com/es-ES/Node-js-Madrid/events/226495441/).
 
