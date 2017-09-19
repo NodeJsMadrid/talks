@@ -60,11 +60,36 @@ Contact [Alex Fernández](mailto:alexfernandeznpm@gmail.com) if you have any dou
 La fecha y organización de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y espacios.
 
-### Octubre 2016
+### Septiembre 2017
 
-[Microservicios: ¿algo nuevo o lo mismo con otro nombre?](https://github.com/NodeJsMadrid/talks/issues/19).
+[Clean Architecture en NodeJS](https://github.com/NodeJsMadrid/talks/issues/26).
 
 ## Charlas Anteriores:
+
+### Mayo 2017
+
+[Inyección de dependencias en Nodejs con InversifyJS y TypeScript](https://www.meetup.com/es-ES/Node-js-Madrid/events/239855183/).
+
+### Abril 2017
+
+[The CITGM Diaries](https://github.com/NodeJsMadrid/talks/issues/23).
+
+### Marzo 2017
+
+[El microservicio más grande del mundo](https://github.com/NodeJsMadrid/talks/issues/22).
+
+### Febrero 2017
+
+[Bot de resultados electorales en node.js]https://www.meetup.com/es-ES/Node-js-Madrid/events/237066735/).
+
+### Diciembre 2016
+
+* [Bot de resultados electorales en node.js](https://github.com/NodeJsMadrid/talks/issues/22)
+* [Life after sessions, using tokens for authentication](https://github.com/NodeJsMadrid/talks/issues/20).
+
+### Noviembre 2016
+
+[Microservicios: ¿algo nuevo o lo mismo con otro nombre?](https://github.com/NodeJsMadrid/talks/issues/19).
 
 ### Septiembre 2016
 
