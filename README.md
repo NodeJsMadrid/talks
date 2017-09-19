@@ -80,7 +80,7 @@ según disponibilidad de los ponentes y espacios.
 
 ### Febrero 2017
 
-[Bot de resultados electorales en node.js]https://www.meetup.com/es-ES/Node-js-Madrid/events/237066735/).
+[Introducción a Node.js, MongoDB y React](https://www.meetup.com/es-ES/Node-js-Madrid/events/237066735/).
 
 ### Diciembre 2016
 
