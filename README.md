@@ -60,11 +60,19 @@ Contact [Alex Fernández](mailto:alexfernandeznpm@gmail.com) if you have any dou
 La fecha y organización de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y espacios.
 
+## Charlas Anteriores:
+
+### Noviembre 2017
+
+[Running NodeJS web-apps on Kubernetes clusters](https://github.com/NodeJsMadrid/talks/issues/28).
+
+### Octubre 2017
+
+[How to scrap listing pages using node.js](https://github.com/NodeJsMadrid/talks/issues/27).
+
 ### Septiembre 2017
 
 [Clean Architecture en NodeJS](https://github.com/NodeJsMadrid/talks/issues/26).
-
-## Charlas Anteriores:
 
 ### Mayo 2017
 
