@@ -62,6 +62,10 @@ según disponibilidad de los ponentes y espacios.
 
 ## Charlas Anteriores:
 
+### Diciembre 2017
+
+[Scraping at Scale](https://github.com/NodeJsMadrid/talks/issues/25).
+
 ### Noviembre 2017
 
 [Running NodeJS web-apps on Kubernetes clusters](https://github.com/NodeJsMadrid/talks/issues/28).
