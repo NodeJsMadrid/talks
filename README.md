@@ -62,7 +62,7 @@ según disponibilidad de los ponentes y espacios.
 
 ## Charlas Anteriores:
 
-### Febrero 2017
+### Febrero 2018
 
 [Building Efficient Software](https://github.com/NodeJsMadrid/talks/issues/30).
 
