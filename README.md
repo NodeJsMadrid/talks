@@ -57,10 +57,29 @@ Contact [Alex Fernández](mailto:alexfernandeznpm@gmail.com) if you have any dou
 
 ## Próximas Charlas Previstas
 
+Consulta en [Meetup](https://www.meetup.com/es-ES/Node-js-Madrid/events/).
 La fecha y organización de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y espacios.
 
 ## Charlas Anteriores:
+
+### Junio 2018
+
+Evento doble:
+* [Building native apps using Titanium & Alloy](https://github.com/NodeJsMadrid/talks/issues/37)
+* [Introducción al scraping en Node con Cheerio](https://github.com/NodeJsMadrid/talks/issues/33)
+
+### Mayo 2018
+
+* [10 patrones de diseño para Node](https://github.com/NodeJsMadrid/talks/issues/34)
+
+### Abril 2018
+
+* [NodeJS Sólido con TypeScript, Jest y NestJS](https://github.com/NodeJsMadrid/talks/issues/31)
+
+### Marzo 2018
+
+* [Universal Pattern & Swagger](https://github.com/NodeJsMadrid/talks/issues/29)
 
 ### Febrero 2018
 
