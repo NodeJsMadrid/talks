@@ -28,7 +28,7 @@ organizador inmediatamente.
 
 ### Node.js Madrid
 
-* Organizadores: Alex Fernández [@pinchito](https://twitter.com/pinchito), Javier Vélez [@javiervelezreye](https://twitter.com/javiervelezreye), Manu Fosela [@manufosela](https://twitter.com/manufosela).
+* Organizadores: Javier Vélez [@javiervelezreye](https://twitter.com/javiervelezreye), Manu Fosela [@manufosela](https://twitter.com/manufosela).
 
 **Si tienes preguntas o sugerencias sobre este código de conducta,
 por favor contacta con uno de los organizadores.**
